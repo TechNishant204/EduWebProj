@@ -1,0 +1,63 @@
+:root {
+    --primaryBlue: "#04016C";
+    --secondaryPurple: "#4A16BD";
+}
+
+.main-content {
+    /* background: linear-gradient(45deg,
+            rgba(74, 22, 189, 0.8) 0%,
+            rgba(4, 1, 108, 0.8) 100%); */
+    /*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=3b4ae2&c2=52019fcc&gt=l&gd=dtr
+*/
+    background: rgba(59, 74, 226, 1.0);
+    background: linear-gradient(225deg, rgba(59, 74, 226, 1.0), rgba(82, 1, 159, 0.8));
+}
+
+.glow-circle {
+    position: absolute;
+    width: 500px;
+    height: 700px;
+    opacity: 70%;
+    border-radius: 50%;
+    left: -50px;
+    top: 50px;
+    background: radial-gradient(circle,
+            rgba(255, 255, 255, 0.777) 0%,
+            /* Softer white in the center */
+            rgba(202, 191, 251, 0.741) 50%,
+            /* Smooth transition */
+            rgba(24, 0, 77, 0.103) 80%
+            /* Fully transparent edge */
+        );
+    box-shadow: 0 3px 30px rgba(128, 128, 128, 0.5);
+
+    z-index: -1;
+}
+
+.company {
+    background: rgb(92, 7, 198);
+    background: linear-gradient(0deg,
+            rgb(85, 3, 185) 0%,
+            rgba(125, 7, 199, 0.958) 100%);
+}
+
+.courses-color {
+    background: rgb(115, 159, 232);
+    background: linear-gradient(45deg,
+            rgba(115, 159, 232, 1) 34%,
+            rgba(79, 24, 202, 0.958420868347339) 100%);
+}
+
+.light-blue {
+    background: rgb(217, 236, 255);
+    background: linear-gradient(0deg,
+            rgba(217, 236, 255, 1) 0%,
+            rgba(217, 236, 255, 0.7399334733893557) 100%);
+}
+
+.bg-purple-pink {
+    background: rgb(179, 238, 234);
+    background: linear-gradient(45deg, rgba(179, 238, 234, 1) 0%, rgba(83, 7, 247, 0.73) 32%, rgba(228, 65, 255, 0.96) 100%);
+}
