@@ -9,27 +9,27 @@ To keep users informed about new courses and updates, the website integrates a s
 Accessibility is a core focus of the website, with features like screen reader compatibility and keyboard navigation to ensure inclusivity for all users. The website is hosted on Netlify and is optimized for performance, ensuring fast load times and a smooth browsing experience.
 </p>
 
-<h3>Key Features:</h3>
+<h3>🚀Key Features:</h3>
 
-<p><strong>Responsive Design:</strong> Optimized for all screen sizes, including mobile devices.
+✅<p><strong>Responsive Design:</strong> Optimized for all screen sizes, including mobile devices.
 
-<p><strong>Gradient Background & Glowing Effects:</strong> Aesthetically pleasing visuals to engage users.
+✅<p><strong>Gradient Background & Glowing Effects:</strong> Aesthetically pleasing visuals to engage users.
 
-<p><strong>Search Functionality:</strong> Easy-to-use search bar for quick course discovery.
+✅<p><strong>Search Functionality:</strong> Easy-to-use search bar for quick course discovery.
 
-<p><strong>Featured Courses & Top Categories:</strong> Highlighted sections to showcase popular and trending courses.
+✅<p><strong>Featured Courses & Top Categories:</strong> Highlighted sections to showcase popular and trending courses.
 
-<p><strong>Testimonials:</strong> Real student feedback to build trust and credibility.
+✅<p><strong>Testimonials:</strong> Real student feedback to build trust and credibility.
 
-<p><strong>Subscription Form:</strong> Allows users to stay updated on new courses and promotions.
+✅<p><strong>Subscription Form:</strong> Allows users to stay updated on new courses and promotions.
 
-<p><strong>Accessibility:</strong> Screen reader support and keyboard navigation for inclusive usability.
+✅<p><strong>Accessibility:</strong> Screen reader support and keyboard navigation for inclusive usability.
 
-<p><strong>Footer Navigation:</strong> Links to key sections, social media, and copyright details.
+✅<p><strong>Footer Navigation:</strong> Links to key sections, social media, and copyright details.
 
-<h3>Hosting & Performance:<h3>
+<h3>Hosting & Performance:</h3>
 <p>The website is hosted on Netlify, ensuring reliable performance, fast load times, and seamless deployment.<br>
   It is designed to be lightweight and efficient, providing an optimal user experience.</p>
 
 <h3>Visit the Website:</h3>
-<p>Explore TechNishant Course Hub at <a>https://technishant-coursehub.netlify.app</a> and discover a world of online learning opportunities!</p>
+<p>Explore TechNishant Course Hub at <a href="https://technishant-coursehub.netlify.app">https://technishant-coursehub.netlify.app</a> and discover a world of online learning opportunities!</p>
