@@ -25,12 +25,28 @@ Accessibility is a core focus of the website, with features like screen reader c
 <p>✅<strong>Accessibility:</strong> Screen reader support and keyboard navigation for inclusive usability.
 <p>✅<strong>Footer Navigation:</strong> Links to key sections, social media, and copyright details.
   
-<h3>🛠TechStack:</h3>
+<h3>⚙️Technologies Used</h3>
+<h4>⏳Programming Languages:</h4>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Javascript</li>
+  <li>JavaScript</li>
 </ul>
+<h3>🪟Frameworks:</h3>
+
+<p><strong>Tailwind CSS:</strong> A utility-first CSS framework for rapidly building custom user interfaces.
+<h4><strong>Tools:</strong></h4>
+
+<p><strong>Font Awesome -</strong> A toolkit for vector icons and social logos.</p>
+<p><strong>Google Fonts -</strong> A library of free licensed font families.</p>
+<p><strong>Tailwind CSS CDN -</strong> A CDN for quickly integrating Tailwind CSS into the project.</p>
+<p><strong>Netlify -</strong> A cloud platform for hosting and deploying web applications.</p>
+
+<h3>Other:</h3>
+
+<p><strong>Favicon Generator -</strong> Used to generate favicons for the website.</p>
+<p><strong>Random User Generator -</strong> Used to generate random user images for testimonials and subscription sections.</p>
+<p><strong>CSS Gradient Generator -</strong> Used to generate gradients for the website.</p>
 
 <h3>🛠️Hosting & Performance:</h3>
 <p>The website is hosted on Netlify, ensuring reliable performance, fast load times, and seamless deployment.<br>
