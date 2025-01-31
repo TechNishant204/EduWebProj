@@ -11,9 +11,9 @@ Accessibility is a core focus of the website, with features like screen reader c
 
 <h3>Key Features:</h3>
 
-<p><bold>Responsive Design:<bold> Optimized for all screen sizes, including mobile devices.
+<p><strong>Responsive Design:</strong> Optimized for all screen sizes, including mobile devices.
 
-<p><bold>Gradient Background & Glowing Effects:</bold> Aesthetically pleasing visuals to engage users.
+<p><strong>Gradient Background & Glowing Effects:</strong> Aesthetically pleasing visuals to engage users.
 
 <p><strong>Search Functionality:</strong> Easy-to-use search bar for quick course discovery.
 
