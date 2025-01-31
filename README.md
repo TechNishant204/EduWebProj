@@ -1,4 +1,4 @@
-<h2>Description of the Project</h2>
+<h2>📌Description of the Project</h2>
 <p>
 TechNishant Course Hub is a modern, static website designed to serve as a dynamic platform for showcasing and promoting a wide range of online courses. Built with HTML, Tailwind CSS, and JavaScript, the website emphasizes responsive design, accessibility, and user-friendly navigation, ensuring a seamless experience across all devices, from desktops to mobile phones.
 
@@ -26,6 +26,14 @@ Accessibility is a core focus of the website, with features like screen reader c
 ✅<p><strong>Accessibility:</strong> Screen reader support and keyboard navigation for inclusive usability.
 
 ✅<p><strong>Footer Navigation:</strong> Links to key sections, social media, and copyright details.
+
+<h3>🛠️Hosting & Performance:</h3>
+<p>The website is hosted on Netlify, ensuring reliable performance, fast load times, and seamless deployment.<br>
+  It is designed to be lightweight and efficient, providing an optimal user experience.
+</p>
+
+<h3>Visit the Website:</h3>
+<p>Explore TechNishant Course Hub at <a href="https://technishant-coursehub.netlify.app">https://technishant-coursehub.netlify.app</a> and discover a world of online learning opportunities!</p>
 
 <h3>Hosting & Performance:</h3>
 <p>The website is hosted on Netlify, ensuring reliable performance, fast load times, and seamless deployment.<br>
