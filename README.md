@@ -15,19 +15,19 @@ Accessibility is a core focus of the website, with features like screen reader c
 
 <p><bold>Gradient Background & Glowing Effects:</bold> Aesthetically pleasing visuals to engage users.
 
-<p><bold>Search Functionality:</bold> Easy-to-use search bar for quick course discovery.
+<p><strong>Search Functionality:</strong> Easy-to-use search bar for quick course discovery.
 
-<p><bold>Featured Courses & Top Categories:</bold> Highlighted sections to showcase popular and trending courses.
+<p><strong>Featured Courses & Top Categories:</strong> Highlighted sections to showcase popular and trending courses.
 
-<p><bold>Testimonials:</bold> Real student feedback to build trust and credibility.
+<p><strong>Testimonials:</strong> Real student feedback to build trust and credibility.
 
-<p><bold>Subscription Form:</bold> Allows users to stay updated on new courses and promotions.
+<p><strong>Subscription Form:</strong> Allows users to stay updated on new courses and promotions.
 
-<p><bold>Accessibility:</bold> Screen reader support and keyboard navigation for inclusive usability.
+<p><strong>Accessibility:</strong> Screen reader support and keyboard navigation for inclusive usability.
 
-<p><bold>Footer Navigation:</bold> Links to key sections, social media, and copyright details.
+<p><strong>Footer Navigation:</strong> Links to key sections, social media, and copyright details.
 
-h3>Hosting & Performance:<h3>
+<h3>Hosting & Performance:<h3>
 <p>The website is hosted on Netlify, ensuring reliable performance, fast load times, and seamless deployment.<br>
   It is designed to be lightweight and efficient, providing an optimal user experience.</p>
 
