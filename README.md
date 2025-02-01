@@ -1,5 +1,5 @@
 Live Preview
-[screen-capture.webm](https://github.com/user-attachments/assets/91b02a7f-c88a-402e-9bd5-d6fb0e8f0582)
+[![Video Title]([screen-capture.webm](https://github.com/user-attachments/assets/91b02a7f-c88a-402e-9bd5-d6fb0e8f0582))
 
 <hr>
 <h2>📌Description of the Project</h2>
