@@ -1,6 +1,7 @@
 
 <h3>Visit the Website:</h3>
-<p>Explore TechNishant Course Hub at <a href="https://technishant-coursehub.netlify.app">Live Preview </a> and discover a world of online learning opportunities!</p>
+https://github.com/TechNishant204/TechNishant-CourseHub/blob/master/Screenshot%202025-02-01%20150754.png
+<p>Explore TechNishant Course Hub at : <a href="https://technishant-coursehub.netlify.app">TechNishant-CourseHub</a> and discover a world of online learning opportunities!</p>
 
 
 <hr>
