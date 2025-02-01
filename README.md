@@ -1,3 +1,7 @@
+Live Preview
+[screen-capture.webm](https://github.com/user-attachments/assets/91b02a7f-c88a-402e-9bd5-d6fb0e8f0582)
+
+<hr>
 <h2>📌Description of the Project</h2>
 <p>
 TechNishant Course Hub is a modern, static website designed to serve as a dynamic platform for showcasing and promoting a wide range of online courses. The website emphasizes responsive design, accessibility, and user-friendly navigation, ensuring a seamless experience across all devices, from desktops to mobile phones.
