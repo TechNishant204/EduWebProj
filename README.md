@@ -1,5 +1,7 @@
-Live Preview
-[![Video Title]([screen-capture.webm](https://github.com/user-attachments/assets/91b02a7f-c88a-402e-9bd5-d6fb0e8f0582))
+
+<h3>Visit the Website:</h3>
+<p>Explore TechNishant Course Hub at <a href="https://technishant-coursehub.netlify.app">Live Preview </a> and discover a world of online learning opportunities!</p>
+
 
 <hr>
 <h2>📌Description of the Project</h2>
@@ -57,7 +59,5 @@ Accessibility is a core focus of the website, with features like screen reader c
   It is designed to be lightweight and efficient, providing an optimal user experience.
 </p>
 
-<h3>Visit the Website:</h3>
-<p>Explore TechNishant Course Hub at <a href="https://technishant-coursehub.netlify.app">https://technishant-coursehub.netlify.app</a> and discover a world of online learning opportunities!</p>
 
 
